@@ -1,0 +1,15 @@
+.navbar-nav {
+    font-weight: 300;
+    font-size: 14px;
+    
+}
+.nav-item {
+      padding: 0 0.5rem;  
+}
+.home-list-item {
+    border-left: 3px rgb(85, 74, 74) solid;
+}
+.carousel-item {
+    height: 450px;
+    
+}
